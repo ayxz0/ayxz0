@@ -1,34 +1,35 @@
 ## Hi, I'm Angela!
+<i> Junior Developer at <a href="https://www.marketpush.com">MarketPush</a> </i> 
 
-🌱 I am a high school student and junior developer at MarketPush. 
+> 🌱 I am a high school student interested in computers and other STEM subjects. In my free time, I enjoy designing and creating web applications and I am always interested in new technology!
 
-### ⚡ Skills:
-* JavaScript 
-* TypeScript
-* Node.js
-* Next.js
-* HTML, CSS
-* SCSS
-* Squarespace
-* PostgreSQL
-* Microsoft Azure 
+Explore more of my projects: <a href="angelazhang.xyz" target="_blank">angelazhang.xyz</a> 
 
-[![Top Langs](https://github-readme-stats-ayxz0.vercel.app/api/top-langs/?username=ayxz0&layout=donut)](https://github.com/ayxz-0/github-readme-stats)
+[![Linkedin: angelazhang](https://img.shields.io/badge/-angelazhang-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/angela-zhang-b1a141233/)](https://www.linkedin.com/in/angela-zhang-b1a141233/)
+[![GitHub ayxz0](https://img.shields.io/github/followers/ayxz0?label=follow&style=social)](https://github.com/ayxz0)
 
+
+<h3>⚡ Skills </h3>
+<div>
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+</div>
+<p></p>
 <a href="https://github.com/ayxz-0/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats-ayxz0.vercel.app/api/top-langs?username=ayxz0&layout=compact&langs_count=8&card_width=320" />
+  <img height=300 align="center" src="https://github-readme-stats-ayxz0.vercel.app/api/top-langs?username=ayxz0&layout=donut&langs_count=8&card_width=320" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
-</a>
+
+
+
 
 <!--
 **ayxz0/ayxz0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayxz0)](https://github.com/anuraghazra/github-readme-stats)
 Here are some ideas to get you started:
+###  I’m currently working on: 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
