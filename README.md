@@ -3,7 +3,7 @@
 
 > 🌱 I am a high school student interested in computers and other STEM subjects. In my free time, I enjoy designing and creating web applications and I am always interested in new technology!
 
-Explore more of my projects: <a href="angelazhang.xyz" target="_blank">angelazhang.xyz</a> 
+Explore more of my projects: <a href="https://www.angelazhang.xyz" target="_blank">angelazhang.xyz</a> 
 
 [![Linkedin: angelazhang](https://img.shields.io/badge/-angelazhang-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/angela-zhang-b1a141233/)](https://www.linkedin.com/in/angela-zhang-b1a141233/)
 [![GitHub ayxz0](https://img.shields.io/github/followers/ayxz0?label=follow&style=social)](https://github.com/ayxz0)
