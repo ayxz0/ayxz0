@@ -19,7 +19,7 @@ Explore more of my projects: <a href="angelazhang.xyz" target="_blank">angelazha
 </div>
 <p></p>
 <a href="https://github.com/ayxz-0/convoychat">
-  <img height=300 align="center" src="https://github-readme-stats-ayxz0.vercel.app/api/top-langs?username=ayxz0&layout=donut&langs_count=8&card_width=320" />
+  <img height=300 align="center" src="https://github-readme-stats-ayxz0.vercel.app/api/top-langs?username=ayxz0&layout=donut&langs_count=5&card_width=320" />
 </a>
 
 
@@ -29,8 +29,7 @@ Explore more of my projects: <a href="angelazhang.xyz" target="_blank">angelazha
 **ayxz0/ayxz0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-###  I’m currently working on: 
-
+&exclude_repo=github-readme-stats
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
