@@ -19,7 +19,7 @@ Explore more of my projects: <a href="https://www.angelazhang.xyz" target="_blan
 </div>
 <p></p>
 <a href="https://github.com/ayxz-0/convoychat">
-  <img height=300 align="center" src="https://github-readme-stats-ayxz0.vercel.app/api/top-langs?username=ayxz0&layout=donut&langs_count=5&card_width=320" />
+  <img height=300 align="center" src="https://github-stats-git-master-ayxz0.vercel.app/api/top-langs?username=ayxz0&layout=donut&langs_count=5&card_width=320" />
 </a>
 
 
