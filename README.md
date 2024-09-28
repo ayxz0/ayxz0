@@ -1,7 +1,8 @@
 ## Hi, I'm Angela!
-<i> Junior Developer at <a href="https://www.marketpush.com">MarketPush</a> </i> 
+<i> Computer Science at <a href="https://www.cs.ucla.edu/">UCLA</a> </i> 
+<!--<i> Junior Developer at <a href="https://www.marketpush.com">MarketPush</a> </i> -->
 
-> 🌱 I am a high school student interested in computers and other STEM subjects. In my free time, I enjoy designing and creating web applications and I am always interested in new technology!
+> 🌱 I am a college student interested in computers and engineering. In my free time, I enjoy designing and creating web applications and I am always interested in new technology!
 
 Explore more of my projects: <a href="https://www.angelazhang.xyz" target="_blank">angelazhang.xyz</a> 
 
